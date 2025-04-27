@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB325F-3D44-4997-A7D8-809B409921F9}|Szepsegeden\\Szepsegeden.csproj|h:\\mestermunkavite\\mestermunkavite\\mestermunka\\szepsegeden\\szepsegeden\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB325F-3D44-4997-A7D8-809B409921F9}|Szepsegeden\\Szepsegeden.csproj|solutionrelative:szepsegeden\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB325F-3D44-4997-A7D8-809B409921F9}|Szepsegeden\\Szepsegeden.csproj|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\szepsegeden\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB325F-3D44-4997-A7D8-809B409921F9}|Szepsegeden\\Szepsegeden.csproj|solutionrelative:szepsegeden\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41D52E-F65E-4F0F-98E4-4178C9B29A71}|SzepsegedenLibrary\\SzepsegedenLibrary.csproj|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\szepsegedenlibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F41D52E-F65E-4F0F-98E4-4178C9B29A71}|SzepsegedenLibrary\\SzepsegedenLibrary.csproj|solutionrelative:szepsegedenlibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41D52E-F65E-4F0F-98E4-4178C9B29A71}|SzepsegedenLibrary\\SzepsegedenLibrary.csproj|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\szepsegedenlibrary\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F41D52E-F65E-4F0F-98E4-4178C9B29A71}|SzepsegedenLibrary\\SzepsegedenLibrary.csproj|solutionrelative:szepsegedenlibrary\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41D52E-F65E-4F0F-98E4-4178C9B29A71}|SzepsegedenLibrary\\SzepsegedenLibrary.csproj|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\szepsegedenlibrary\\models\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F41D52E-F65E-4F0F-98E4-4178C9B29A71}|SzepsegedenLibrary\\SzepsegedenLibrary.csproj|solutionrelative:szepsegedenlibrary\\models\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41D52E-F65E-4F0F-98E4-4178C9B29A71}|SzepsegedenLibrary\\SzepsegedenLibrary.csproj|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\szepsegedenlibrary\\models\\workinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F41D52E-F65E-4F0F-98E4-4178C9B29A71}|SzepsegedenLibrary\\SzepsegedenLibrary.csproj|solutionrelative:szepsegedenlibrary\\models\\workinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41D52E-F65E-4F0F-98E4-4178C9B29A71}|SzepsegedenLibrary\\SzepsegedenLibrary.csproj|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\szepsegedenlibrary\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F41D52E-F65E-4F0F-98E4-4178C9B29A71}|SzepsegedenLibrary\\SzepsegedenLibrary.csproj|solutionrelative:szepsegedenlibrary\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41D52E-F65E-4F0F-98E4-4178C9B29A71}|SzepsegedenLibrary\\SzepsegedenLibrary.csproj|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\szepsegedenlibrary\\models\\days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F41D52E-F65E-4F0F-98E4-4178C9B29A71}|SzepsegedenLibrary\\SzepsegedenLibrary.csproj|solutionrelative:szepsegedenlibrary\\models\\days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\ReservationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Szepsegeden\\Models\\ReservationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Szepsegeden\\Models\\Userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB325F-3D44-4997-A7D8-809B409921F9}|Szepsegeden\\Szepsegeden.csproj|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\szepsegeden\\controllers\\userservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB325F-3D44-4997-A7D8-809B409921F9}|Szepsegeden\\Szepsegeden.csproj|solutionrelative:szepsegeden\\controllers\\userservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB325F-3D44-4997-A7D8-809B409921F9}|Szepsegeden\\Szepsegeden.csproj|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\szepsegeden\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{21DB325F-3D44-4997-A7D8-809B409921F9}|Szepsegeden\\Szepsegeden.csproj|solutionrelative:szepsegeden\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB325F-3D44-4997-A7D8-809B409921F9}|Szepsegeden\\Szepsegeden.csproj|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\szepsegeden\\controllers\\workinghourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB325F-3D44-4997-A7D8-809B409921F9}|Szepsegeden\\Szepsegeden.csproj|solutionrelative:szepsegeden\\controllers\\workinghourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB325F-3D44-4997-A7D8-809B409921F9}|Szepsegeden\\Szepsegeden.csproj|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\szepsegeden\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB325F-3D44-4997-A7D8-809B409921F9}|Szepsegeden\\Szepsegeden.csproj|solutionrelative:szepsegeden\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Workinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Szepsegeden\\Models\\Workinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Szepsegeden\\Models\\Service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Szepsegeden\\Models\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Szepsegeden\\Models\\Reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Szepsegeden\\Models\\Days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Szepsegeden\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Workinghours.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\SzepsegedenLibrary\\Models\\Workinghours.cs",
+              "RelativeDocumentMoniker": "SzepsegedenLibrary\\Models\\Workinghours.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\SzepsegedenLibrary\\Models\\Workinghours.cs",
+              "RelativeToolTip": "SzepsegedenLibrary\\Models\\Workinghours.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:14:18.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\SzepsegedenLibrary\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "SzepsegedenLibrary\\Models\\Reservation.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\SzepsegedenLibrary\\Models\\Reservation.cs",
+              "RelativeToolTip": "SzepsegedenLibrary\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:14:01.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\SzepsegedenLibrary\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "SzepsegedenLibrary\\Models\\Service.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\SzepsegedenLibrary\\Models\\Service.cs",
+              "RelativeToolTip": "SzepsegedenLibrary\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:13:53.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\SzepsegedenLibrary\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SzepsegedenLibrary\\Models\\User.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\SzepsegedenLibrary\\Models\\User.cs",
+              "RelativeToolTip": "SzepsegedenLibrary\\Models\\User.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:13:45.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Days.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\SzepsegedenLibrary\\Models\\Days.cs",
+              "RelativeDocumentMoniker": "SzepsegedenLibrary\\Models\\Days.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\SzepsegedenLibrary\\Models\\Days.cs",
+              "RelativeToolTip": "SzepsegedenLibrary\\Models\\Days.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:13:42.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Userservices.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\SzepsegedenLibrary\\Models\\Userservices.cs",
+              "RelativeDocumentMoniker": "SzepsegedenLibrary\\Models\\Userservices.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\SzepsegedenLibrary\\Models\\Userservices.cs",
+              "RelativeToolTip": "SzepsegedenLibrary\\Models\\Userservices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:12:06.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationDto.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\ReservationDto.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\Models\\ReservationDto.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\ReservationDto.cs",
+              "RelativeToolTip": "Szepsegeden\\Models\\ReservationDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:57:06.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\Controllers\\ReservationController.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "Szepsegeden\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:29:45.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserservicesController.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Controllers\\UserservicesController.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\Controllers\\UserservicesController.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Controllers\\UserservicesController.cs",
+              "RelativeToolTip": "Szepsegeden\\Controllers\\UserservicesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:01:29.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Workinghours.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Workinghours.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\Models\\Workinghours.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Workinghours.cs",
+              "RelativeToolTip": "Szepsegeden\\Models\\Workinghours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:56:44.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Userservices.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Userservices.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\Models\\Userservices.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Userservices.cs",
+              "RelativeToolTip": "Szepsegeden\\Models\\Userservices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:56:43.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\Models\\Service.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Service.cs",
+              "RelativeToolTip": "Szepsegeden\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:56:41.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Role.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\Models\\Role.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Role.cs",
+              "RelativeToolTip": "Szepsegeden\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:56:40.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\Models\\Reservation.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Reservation.cs",
+              "RelativeToolTip": "Szepsegeden\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:53:39.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Web.config",
+              "RelativeDocumentMoniker": "Szepsegeden\\Web.config",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Web.config",
+              "RelativeToolTip": "Szepsegeden\\Web.config",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEgAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-03T16:01:23.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\Controllers\\UserController.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Szepsegeden\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAArwGkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:06:10.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkinghoursController.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Controllers\\WorkinghoursController.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\Controllers\\WorkinghoursController.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Controllers\\WorkinghoursController.cs",
+              "RelativeToolTip": "Szepsegeden\\Controllers\\WorkinghoursController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:46:13.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Szepsegeden\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:00:46.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Days.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Days.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\Models\\Days.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\Days.cs",
+              "RelativeToolTip": "Szepsegeden\\Models\\Days.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:59:27.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Szepsegeden\\Models\\User.cs",
+              "ToolTip": "H:\\mestermunkavite\\mestermunkavite\\mestermunka\\Szepsegeden\\Szepsegeden\\Models\\User.cs",
+              "RelativeToolTip": "Szepsegeden\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:55:00.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

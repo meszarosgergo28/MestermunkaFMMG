@@ -1,0 +1,15 @@
+﻿<Window x:Class="SzepsegedenWPF.Dolgozo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SzepsegedenWPF"
+        mc:Ignorable="d"
+        Title="Szépség Éden - Dolgozói ablak" Height="480" Width="500" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,2,-0.4,-2">
+        <ListBox x:Name="listBox" HorizontalAlignment="Center" Height="275" Margin="0,80,0,0" VerticalAlignment="Top" Width="400"/>
+        <Button x:Name="button" Content="Törlés" HorizontalAlignment="Center" Margin="0,390,0,0" VerticalAlignment="Top" Width="100" Click="Torol" FontWeight="Bold" FontSize="16"/>
+        <Label x:Name="label" Content="" HorizontalAlignment="Center" Margin="0,30,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+
+    </Grid>
+</Window>

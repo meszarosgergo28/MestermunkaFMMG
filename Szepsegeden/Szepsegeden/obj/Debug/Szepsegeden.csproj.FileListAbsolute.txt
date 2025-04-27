@@ -1,0 +1,437 @@
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Szepsegeden.dll.config
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Szepsegeden.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Szepsegeden.pdb
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csc.exe
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csc.exe.config
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csc.rsp
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csi.exe
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csi.exe.config
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csi.rsp
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.Managed.Core.targets
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.AppContext.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Collections.Immutable.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Console.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Globalization.Calendars.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.Compression.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.FileSystem.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Net.Http.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Net.Sockets.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Reflection.Metadata.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.ValueTuple.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.XmlDocument.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.XPath.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\vbc.exe
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\vbc.exe.config
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\vbc.rsp
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\VBCSCompiler.exe
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\VBCSCompiler.exe.config
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\BouncyCastle.Crypto.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.SqlServer.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Google.Protobuf.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.Streams.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Hash.xxHash.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Microsoft.Web.Infrastructure.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.EntityFramework.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Renci.SshNet.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Swashbuckle.Core.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Buffers.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Memory.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Net.Http.Formatting.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Numerics.Vectors.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Runtime.CompilerServices.Unsafe.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.WebHost.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Ubiety.Dns.Core.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\WebActivatorEx.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Zstandard.Net.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.SqlServer.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Google.Protobuf.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.Streams.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Hash.xxHash.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.EntityFramework.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Renci.SshNet.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Buffers.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Memory.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Numerics.Vectors.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Runtime.CompilerServices.Unsafe.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Net.Http.Formatting.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.WebHost.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.csproj.AssemblyReference.cache
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.csproj.CoreCompileInputs.cache
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsege.3434CFAD.Up2Date
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.pdb
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.Bson.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Threading.Tasks.Extensions.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Cors.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.Cors.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.Bson.pdb
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.Bson.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Threading.Tasks.Extensions.xml
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.Cors.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Szepsegeden.dll.config
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Szepsegeden.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Szepsegeden.pdb
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csc.exe
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csc.exe.config
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csc.rsp
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csi.exe
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csi.exe.config
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csi.rsp
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.Managed.Core.targets
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.AppContext.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Collections.Immutable.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Console.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Globalization.Calendars.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.Compression.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.FileSystem.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Net.Http.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Net.Sockets.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Reflection.Metadata.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.ValueTuple.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.XmlDocument.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.XPath.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\vbc.exe
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\vbc.exe.config
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\vbc.rsp
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\VBCSCompiler.exe
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\VBCSCompiler.exe.config
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\BouncyCastle.Crypto.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.SqlServer.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Google.Protobuf.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.Streams.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Hash.xxHash.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Microsoft.Web.Infrastructure.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.EntityFramework.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.Bson.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Renci.SshNet.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Swashbuckle.Core.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Buffers.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Memory.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Net.Http.Formatting.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Numerics.Vectors.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Threading.Tasks.Extensions.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Cors.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.Cors.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.WebHost.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Ubiety.Dns.Core.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\WebActivatorEx.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Zstandard.Net.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.SqlServer.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Google.Protobuf.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.Streams.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Hash.xxHash.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.EntityFramework.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.Bson.pdb
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.Bson.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Renci.SshNet.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Buffers.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Memory.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Net.Http.Formatting.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Numerics.Vectors.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Threading.Tasks.Extensions.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.Cors.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.WebHost.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.csproj.AssemblyReference.cache
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.csproj.CoreCompileInputs.cache
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.pdb
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.csproj.AssemblyReference.cache
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.csproj.CoreCompileInputs.cache
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.pdb
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Szepsegeden.dll.config
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Szepsegeden.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Szepsegeden.pdb
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csc.exe
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csc.exe.config
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csc.rsp
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csi.exe
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csi.exe.config
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csi.rsp
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.AppContext.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Console.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.Compression.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Net.Http.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.ValueTuple.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\vbc.exe
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\vbc.exe.config
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\vbc.rsp
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\VBCSCompiler.exe
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\BouncyCastle.Crypto.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.SqlServer.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Google.Protobuf.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Hash.xxHash.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.EntityFramework.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Renci.SshNet.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Swashbuckle.Core.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Buffers.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Memory.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Net.Http.Formatting.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Numerics.Vectors.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Cors.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.Cors.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.WebHost.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Ubiety.Dns.Core.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\WebActivatorEx.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Zstandard.Net.dll
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.SqlServer.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Google.Protobuf.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Hash.xxHash.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.EntityFramework.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Renci.SshNet.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Buffers.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Memory.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Net.Http.Formatting.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Numerics.Vectors.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.Cors.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.WebHost.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Máté\OneDrive\Asztali gép\Minden\Suli\2023-2024\faszom\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.csproj.CopyComplete
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Szepsegeden.dll.config
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Szepsegeden.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Szepsegeden.pdb
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csc.exe
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csc.exe.config
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csc.rsp
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csi.exe
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csi.exe.config
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\csi.rsp
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.Managed.Core.targets
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.AppContext.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Collections.Immutable.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Console.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Globalization.Calendars.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.Compression.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.FileSystem.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Net.Http.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Net.Sockets.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Reflection.Metadata.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.ValueTuple.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.XmlDocument.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.XPath.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\vbc.exe
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\vbc.exe.config
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\vbc.rsp
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\VBCSCompiler.exe
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\roslyn\VBCSCompiler.exe.config
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\BouncyCastle.Crypto.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.SqlServer.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Google.Protobuf.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.Streams.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Hash.xxHash.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Microsoft.Web.Infrastructure.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.EntityFramework.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.Bson.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Renci.SshNet.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Swashbuckle.Core.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Buffers.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Memory.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Net.Http.Formatting.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Numerics.Vectors.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Threading.Tasks.Extensions.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Cors.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.Cors.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.WebHost.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Ubiety.Dns.Core.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\WebActivatorEx.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Zstandard.Net.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\EntityFramework.SqlServer.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Google.Protobuf.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Compression.LZ4.Streams.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\K4os.Hash.xxHash.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\MySql.Data.EntityFramework.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.Bson.pdb
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Newtonsoft.Json.Bson.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Renci.SshNet.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Buffers.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Memory.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Net.Http.Formatting.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Numerics.Vectors.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Threading.Tasks.Extensions.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.Cors.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\System.Web.Http.WebHost.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.csproj.AssemblyReference.cache
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.csproj.CoreCompileInputs.cache
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.csproj.CopyComplete
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.pdb
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\SzepsegedenLibrary.dll
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\SzepsegedenLibrary.pdb
+E:\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\SzepsegedenLibrary.dll.config
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\SzepsegedenLibrary.dll
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\SzepsegedenLibrary.pdb
+H:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\SzepsegedenLibrary.dll.config
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\SzepsegedenLibrary.dll
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\SzepsegedenLibrary.pdb
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\bin\SzepsegedenLibrary.dll.config
+D:\mestermunkavite\mestermunkavite\mestermunka\Szepsegeden\Szepsegeden\obj\Debug\Szepsegeden.csproj.CopyComplete

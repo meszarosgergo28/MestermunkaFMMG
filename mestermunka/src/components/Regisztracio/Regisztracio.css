@@ -1,0 +1,176 @@
+.regisztraciocontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 30vh;
+    background-color: var(--mauve);
+    border-radius: 1rem;
+    margin: 8rem auto 4rem auto;
+    width: 90%;
+	max-width: 960px; 
+}
+
+.regisztraciowrapper {
+    width: 750px;
+    border-radius: 10px;
+    color: white;
+    padding: 40px 35px 55px;
+}
+
+.regisztraciowrapper h1 {
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.regisztraciowrapper .input-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.regisztraciofelulet {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.input-box .input-field {
+    position: relative;
+    width: 75%;
+    height: 50px;
+    margin: 15px 0;
+}
+
+.tajekoztato{
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+
+.input-box .input-field input {
+
+    height: 100%;
+    font-size: 16px;
+    border-radius: 10px;
+    color: white;
+    border-color: gray;
+    padding: 15px 15px 15px 25px;
+    background: var(--mauve) ;
+    filter: saturate(74%) contrast(28%);
+    -webkit-filter: saturate(74%) contrast(100%);
+    -moz-filter: saturate(74%) contrast(100%);
+    
+
+}
+
+.input-box .input-field input::placeholder {
+    color: white;
+}
+
+.input-box .input-field i {
+    position: absolute;
+    left: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.altalanos{
+    cursor: pointer;
+}
+
+.altalanos input[type="checkbox"]{
+    margin-right: 0.5rem;
+    cursor: pointer;
+}
+
+.regisztraciowrapper .altalanos {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.regisztraciowrapper label {
+    font-size: 15.5px;
+}
+
+.regisztraciowrapper .btn {
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    width: 100%;
+    height: 45px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.regisztraciowrapper .btn:hover {
+    cursor: pointer;
+    background-color: var(--maroon);
+    color: var(--cloud);
+}
+
+.regisztraciowrapper .toggle-link {
+    text-align: center;
+    margin-top: 15px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+    .regisztraciofelulet {
+        flex-direction: column;
+        align-items: center;
+        width: 70%;
+    }
+
+    .input-box {
+        width: 100%;
+        align-items: center;
+    }
+
+    .input-box .input-field {
+        width: 100%;
+        max-width: 500px; /* nagyobb szélesség mobilon */
+        margin: 10px auto;
+    }
+
+    .input-box .input-field input {
+        width: 100%;
+        font-size: 16px;
+        padding: 15px 20px;
+        box-sizing: border-box;
+    }
+
+    .regisztraciowrapper form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .regisztraciowrapper {
+        padding: 20px;
+    }
+
+    .regisztraciowrapper .altalanos {
+        justify-content: center;
+        text-align: center;
+        padding: 0 1rem;
+    }
+
+    .regisztraciowrapper .btn {
+        justify-content: center;
+        font-size: 16px;
+    }
+
+    .regisztraciowrapper .toggle-link {
+        text-align: center;
+        font-size: 15px;
+    }
+}

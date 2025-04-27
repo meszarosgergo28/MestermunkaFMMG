@@ -1,0 +1,66 @@
+.servicecontainer{
+	margin-top: 4rem;
+}
+
+.service-grid {
+	display: grid;
+	gap: 24px;
+	padding: 32px;
+
+	/* Alapértelmezés: 1 oszlop (mobilon) */
+	grid-template-columns: 1fr;
+}
+
+/* Tablet vagy nagyobb: 2 oszlop */
+@media (min-width: 640px) {
+	.service-grid {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+/* Laptop vagy nagyobb: 3 oszlop */
+@media (min-width: 1024px) {
+	.service-grid {
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
+
+.service-card {
+	position: relative;
+	height: 250px;
+	border-radius: 20px;
+	background-size: cover;
+	background-position: center;
+	overflow: hidden;
+	cursor: pointer;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+	transition: transform 0.3s ease;
+	will-change: transform;
+}
+
+.service-card:hover {
+	transform: scale(1.03);
+}
+
+.service-card .overlay {
+	position: absolute;
+	inset: 0;
+	background-color: rgba(0, 0, 0, 0.3);
+	transition: background-color 0.3s ease;
+}
+
+.service-card:hover .overlay {
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.service-card .text {
+	position: absolute;
+	inset: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: white;
+	font-size: 1.5rem;
+	font-weight: 600;
+	z-index: 1;
+}

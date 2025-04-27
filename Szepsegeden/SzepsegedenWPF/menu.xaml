@@ -1,0 +1,13 @@
+﻿<Window x:Class="SzepsegedenWPF.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SzepsegedenWPF"
+        mc:Ignorable="d"
+        Title="Szépség Éden - Menü" Height="225" Width="350" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="uj" Content="Új alkalmazott hozzáadása" HorizontalAlignment="Center" Margin="0,45,0,0" VerticalAlignment="Top" Width="250" Height="30" Click="felvetel_Click" FontWeight="Bold" FontSize="16"/>
+        <Button x:Name="modosit" Content="Felhasználók törlése" HorizontalAlignment="Center" Margin="0,120,0,0" VerticalAlignment="Top" Width="250" Height="30" Click="torol_Click" FontSize="16" FontWeight="Bold"/>
+    </Grid>
+</Window>

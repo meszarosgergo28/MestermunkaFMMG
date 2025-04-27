@@ -1,0 +1,15 @@
+﻿<Window x:Class="SzepsegedenWPF.Torles"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SzepsegedenWPF"
+        mc:Ignorable="d"
+        Title="Szépség Éden - Felhasználó törlő" Height="450" Width="600" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <ListBox x:Name="listBox" HorizontalAlignment="Center" Height="255" Margin="0,80,0,0" VerticalAlignment="Top" Width="490"/>
+        <Label x:Name="label" Content="Felhasználók" HorizontalAlignment="Center" Margin="0,25,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="25"/>
+        <Button x:Name="torol" Content="Felhasználó törlése" HorizontalAlignment="Left" Margin="350,366,0,0" VerticalAlignment="Top" Height="30" Width="180" FontSize="16" FontWeight="Bold" Click="torol_Click"/>
+        <Button x:Name="menu" Content="Vissza a Menübe" HorizontalAlignment="Left" Height="30" Margin="52,366,0,0" VerticalAlignment="Top" Width="150" FontWeight="Bold" FontSize="16" Click="Menu_Click"/>
+    </Grid>
+</Window>

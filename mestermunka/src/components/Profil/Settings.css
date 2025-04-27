@@ -1,0 +1,245 @@
+.settingscontainer {
+	display: flex;
+	flex-direction: row;
+	background-color: var(--mauve);
+	min-height: 800px;
+	margin-top: 8rem;
+	padding: 5rem;
+	border-radius: 1rem;
+	font-size: 1.5rem;
+	color: var(--cloud);
+	margin-bottom: 4rem;
+	margin-right: 2.5rem;
+	margin-left: 2.5rem;
+}
+
+.password-container input {
+	height: 100%;
+	background: transparent;
+	font-size: 1.2rem;
+	border-radius: 10px;
+	color: white;
+	border-color: gray;
+	padding: 15px 15px 15px 25px;
+	background: var(--mauve);
+	filter: saturate(74%) contrast(100%);
+	-webkit-filter: saturate(74%) contrast(100%);
+	-moz-filter: saturate(74%) contrast(100%);
+	margin-bottom: 1rem;
+	margin-right: 1rem;
+}
+
+.foglalt-idopontok-container {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 12px;
+	margin-top: 16px;
+}
+
+.foglalas-kartya {
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	min-width: 180px;
+	background-color: #f8f8f8;
+	color: var(--mauve);
+}
+
+.foglalas-kartya:hover {
+	background-color: #f0e9ef;
+	cursor: pointer;
+}
+
+.foglalas-kartya.selected {
+	background-color: var(--maroon);
+	color: #fff;
+	border: none;
+  }
+
+.password-container ::placeholder {
+	color: white;
+
+}
+
+.options {
+	margin-right: 5rem;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.options .item {
+	border-bottom: 1px solid var(--cloud);
+	padding: 1rem;
+	cursor: pointer;
+	transition: color 0.3s ease;
+}
+
+.options .item:hover {
+	color: var(--maroon);
+}
+
+.elements {
+	flex-grow: 1;
+	background: rgba(255, 255, 255, 0.1);
+	padding: 2rem;
+	border-radius: 0.5rem;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+	width: 100%;
+}
+
+.content {
+	display: none;
+	animation: fadeIn 0.3s ease-in-out;
+}
+
+.content.active {
+	display: block;
+}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+}
+
+@media (max-width: 768px) {
+	.settingscontainer {
+		flex-direction: column;
+		padding: 2rem;
+		margin-right: 0;
+		margin-left: 0;
+	}
+
+	.options {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		margin-bottom: 2rem;
+		align-items: center;
+		margin-right: 0;
+
+	}
+
+	.options .item {
+		border-bottom: none;
+		padding: 0.8rem;
+
+
+	}
+}
+
+.react-calendar {
+	width: 100%;
+	max-width: 100%;
+	background: white;
+	border-radius: 10px;
+	padding: 15px;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+	font-size: 1rem;
+	color: black;
+	margin-bottom: 1rem;
+}
+
+.react-calendar__navigation {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 1.2rem;
+	font-weight: bold;
+	color: black;
+	padding-bottom: 10px;
+}
+
+.react-calendar__navigation button {
+	background: none;
+	border: none;
+	font-size: 1.2rem;
+	cursor: pointer;
+	color: black;
+}
+
+.react-calendar__navigation button:hover {
+	color: var(--mauve);
+}
+
+.react-calendar__tile {
+	padding: 10px;
+	text-align: center;
+	color: black;
+}
+
+.react-calendar__tile--active {
+	background: var(--mauve) !important;
+	color: white !important;
+	font-weight: bold;
+	border-radius: 5px;
+}
+
+.react-calendar__tile:focus {
+	background: var(--mauve) !important;
+	color: white !important;
+}
+
+.react-calendar__month-view__weekdays {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 0.9rem;
+	color: black;
+}
+
+.react-calendar__month-view__days__day--weekend {
+	color: red;
+}
+
+.react-calendar__month-view__days__day--neighboringMonth {
+	color: #bbb;
+}
+
+.cancel-btn {
+	margin-top: 1rem;
+	padding: 0.8rem 1.5rem;
+	border: none;
+	background: var(--mauve);
+	color: white;
+	font-size: 1.2rem;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background 0.3s ease;
+	margin-right: 1rem;
+}
+
+.cancel-btn:hover:hover {
+	background: var(--maroon);
+}
+
+li {
+	list-style: none;
+	margin-top: 0.5rem;
+	font-size: 1.2rem;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background: rgba(255, 255, 255, 0.05);
+	padding: 0.6rem 1rem;
+	border-radius: 6px;
+}
+
+li button {
+	background: #e74c3c;
+	color: white;
+	border: none;
+	border-radius: 4px;
+	padding: 0.3rem 0.8rem;
+	cursor: pointer;
+	font-size: 0.9rem;
+}
+
+li button:hover {
+	background: #c0392b;
+}

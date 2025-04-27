@@ -1,0 +1,163 @@
+{
+  "Id": 1,
+  "Email": "admin@szepseg.hu",
+  "Surname": "Admin",
+  "Firstname": "Admin",
+  "PhoneNumber": "0000000000",
+  "Role_Id": 1
+}
+  "Passwd": "Admin123"
+
+
+{
+  "Id": 2,
+  "Email": "fodrasz1@szepseg.hu",
+  "Surname": "Borbély",
+  "Firstname": "Bence",
+  "PhoneNumber": "1111111111",
+  "Role_Id": 3
+}
+  "Passwd": "BorbelyBence123"
+
+
+{
+  "Id": 3,
+  "Email": "fodrasz2@szepseg.hu",
+  "Surname": "Fodrász",
+  "Firstname": "Fanni",
+  "PhoneNumber": "2222222222",
+  "Role_Id": 3
+}
+ "Passwd": "FodraszFanni123"
+
+
+{
+  "Id": 4,
+  "Email": "fodrasz3@szepseg.hu",
+  "Surname": "Haj",
+  "Firstname": "Hanna",
+  "PhoneNumber": "3333333333",
+  "Role_Id": 3
+}
+ "Passwd": "HajHanna123"
+
+
+{
+  "Id": 5,
+  "Email": "kormos1@szepseg.hu",
+  "Surname": "Körmösné",
+  "Firstname": "Kitti",
+  "PhoneNumber": "4444444444",
+  "Role_Id": 3
+}
+ "Passwd": "KormosneKitti123"
+
+
+{
+  "Id": 6,
+  "Email": "kormos2@szepseg.hu",
+  "Surname": "Pedikűr",
+  "Firstname": "Panna",
+  "PhoneNumber": "5555555555",
+  "Role_Id": 3
+}
+ "Passwd": "PedikurPanna123"
+
+
+{
+  "Id": 7,
+  "Email": "kormos3@szepseg.hu",
+  "Surname": "Lakkozó",
+  "Firstname": "Lara",
+  "PhoneNumber": "6666666666",
+  "Role_Id": 3
+}
+ "Passwd": "LakkozoLara123"
+
+
+{
+  "Id": 8,
+  "Email": "kormos4@szepseg.hu",
+  "Surname": "Körmös",
+  "Firstname": "Dóra",
+  "PhoneNumber": "7777777777",
+  "Role_Id": 3
+}
+ "Passwd": "KormosDora123"
+
+
+{
+  "Id": 9,
+  "Email": "masszor1@szepseg.hu",
+  "Surname": "Masszőr",
+  "Firstname": "Máté",
+  "PhoneNumber": "8888888888",
+  "Role_Id": 3
+}
+ "Passwd": "MasszorMate123"
+
+
+{
+  "Id": 10,
+  "Email": "masszor2@szepseg.hu",
+  "Surname": "Masszázs",
+  "Firstname": "Mira",
+  "PhoneNumber": "9999999999",
+  "Role_Id": 3
+}
+ "Passwd": "MasszazsMira123"
+
+
+{
+  "Id": 11,
+  "Email": "arckezelo1@szepseg.hu",
+  "Surname": "Arcos",
+  "Firstname": "Andi",
+  "PhoneNumber": "1010101010",
+  "Role_Id": 3
+}
+ "Passwd": "ArcosAndi123"
+
+
+{
+  "Id": 12,
+  "Email": "gyantas1@szepseg.hu",
+  "Surname": "Gyantázó",
+  "Firstname": "Gabi",
+  "PhoneNumber": "1212121212",
+  "Role_Id": 3
+}
+ "Passwd": "GyantazoGabi123"
+
+
+{
+  "Id": 13,
+  "Email": "vendeg1@szepseg.hu",
+  "Surname": "Vendég",
+  "Firstname": "Viki",
+  "PhoneNumber": "1313131313",
+  "Role_Id": 2
+}
+ "Passwd": "VendegViki123"
+
+
+{
+  "Id": 14,
+  "Email": "vendeg2@szepseg.hu",
+  "Surname": "Vendég",
+  "Firstname": "Viktor",
+  "PhoneNumber": "1414141414",
+  "Role_Id": 2
+}
+ "Passwd": "VendegViktor123"
+
+
+{
+  "Id": 15,
+  "Email": "teszt@szepseg.hu",
+  "Surname": "Teszt",
+  "Firstname": "Vendég",
+  "PhoneNumber": "1234567890",
+  "Role_Id": 2
+}
+ "Passwd": "Teszt123"

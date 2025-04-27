@@ -1,0 +1,116 @@
+.logo {
+    width: 3rem;
+    height: 3rem;
+    margin-left: 1rem;
+    margin-bottom: auto;
+    margin-right: 1rem;
+}
+
+.logotitle {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+.nopointer {
+    cursor: default !important;
+}
+
+.menu>a {
+    display: flex;
+    align-items: center;
+}
+
+.company {
+    color: var(--maroon);
+    font-family: var(--main-font)
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--mauve);
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 10000000;
+}
+
+.menu-list>a {
+    text-decoration: none;
+    color: var(--maroon);
+}
+
+.menu-list {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    font-size: 1.5rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-weight: 500;
+    font-family: "Playwrite IT Moderna", serif;
+    align-items: center;
+}
+
+.menu-list>a:hover {
+    cursor: pointer;
+    color: #F7EDE2 !important;
+}
+
+@media screen and (max-width: 768px) {
+    main {
+        height: 100vh;
+    }
+
+    .logo {
+        margin-top: auto;
+        width: 4rem;
+        height: 4rem;
+    }
+
+    .logo.open {
+        width: 4rem;
+        height: 4rem;
+        margin-left: 1rem;
+        margin-top: 1.4rem;
+    }
+
+    .menu {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        height: 5rem;
+        border-bottom-right-radius: 10%;
+        border-bottom-left-radius: 10%;
+    }
+
+    .menu-list>a {
+        display: block;
+        font-family: var(--secondary-font);
+        font-size: 1.5rem;
+        text-decoration: none;
+        padding: 1.2rem 0;
+        background-color: var(--mauve);
+        text-align: center;
+        border-bottom: 1px solid var(--maroon);
+    }
+
+    .menu-list {
+        display: none;
+        height: 20px;
+        width: 100vw;
+        padding: 0;
+        z-index: 1000;
+    }
+
+    .menu-list.open {
+        display: block;
+    }
+
+    .company {
+        display: none;
+    }
+}
