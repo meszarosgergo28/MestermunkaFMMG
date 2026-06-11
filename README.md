@@ -130,3 +130,27 @@ Follow these steps exactly to build, launch, and run the entire environment loca
 3. Start the Vite server by executing:
    ```bash
    npm run dev
+
+### Step 4: Run
+1. Copy the local address generated in the terminal output (e.g., http://localhost:5173) and paste it into your browser to view the client UI.
+
+---
+
+🧪 Testing Accounts (Demo Environment)
+Use the following credentials to fully explore the ecosystem right away:
+
+Client / Guest Web Account:
+
+  Email: teszt@szepseg.hu
+  Password: Teszt123
+
+Specialist / Technician Account (Desktop app):
+
+  Email: fodrasz2@szepseg.hu
+  Password: FodraszFanni123
+
+System Administrator Account (Desktop app):
+
+  Email: admin@admin.hu
+  Password: Admin123
+
