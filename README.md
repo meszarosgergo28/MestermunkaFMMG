@@ -48,50 +48,61 @@ The system triggers immediate transactional emails to maintain data integrity an
 
 ## 📊 Relational Database Design
 
-The system runs on a highly structured relational database schema (`szepsegeden`), enforcing transactional data integrity.
+The system runs on a highly structured relational database schema (`szepsegeden`), enforcing transactional data integrity. The diagram below is automatically rendered by GitHub's Mermaid engine:
 
-  +--------------+            +------------------+            +--------------+
-  |     Role     |            |       User       |            |     Days     |
-  +--------------+            +------------------+            +--------------+
-  | id (PK)      |<-----------| id (PK)          |            | daynumber(PK)|
-  | name         |            | email            |            | name         |
-  +--------------+            | passwd_hash      |            +--------------+
-                              | passwd_salt      |                   |
-                              | surname          |                   |
-                              | firstname        |                   |
-                              | phonenumber      |                   |
-                              | role_id (FK)     |                   |
-                              +------------------+                   |
-                                |       |      |                     |
-         +----------------------+       |      +-------+             |
-         |                              v              v             v
-         |                    +------------------+   +-------------------+
-         |                    |   Userservices   |   |   Workinghours    |
-         |                    +------------------+   +-------------------+
-         |                    | user_id (FK/PK)  |   | user_id (FK/PK)   |
-         |                    | service_id(FK/PK)|   | daynumber (FK/PK) |
-         v                    +------------------+   | opening_time      |
-  +------------------+                  ^            | closing_time      |
-  |   Reservation    |                  |            +-------------------+
-  +------------------+                  |
-  | id (PK)          |                  |
-  | worker_id (FK)   |                  |
-  | guest_id (FK)    |                  |
-  | service_id (FK)  |------------------+
-  | datetime         |
-  | appointment      |
-  +--------------+---+
-                 |
-                 v
-          +--------------+
-          |   Service    |
-          +--------------+
-          | id (PK)      |
-          | name         |
-          | price        |
-          | duration     |
-          +--------------+
+```mermaid
+erDiagram
+    Role ||--o{ User : defines
+    User ||--o{ Userservices : certified
+    Service ||--o{ Userservices : assigned
+    User ||--o{ Reservation : manages
+    Service ||--o{ Reservation : booked
+    User ||--o{ Workinghours : works
+    Days ||--o{ Workinghours : contains
 
+    Role {
+        id id
+        name name
+    }
+    User {
+        id id
+        email email
+        passwd_hash passwd_hash
+        passwd_salt passwd_salt
+        surname surname
+        firstname firstname
+        phonenumber phonenumber
+        role_id role_id
+    }
+    Service {
+        id id
+        name name
+        price price
+        duration duration
+    }
+    Reservation {
+        id id
+        worker_id worker_id
+        guest_id guest_id
+        service_id service_id
+        datetime datetime
+        appointment appointment
+    }
+    Userservices {
+        user_id user_id
+        service_id service_id
+    }
+    Workinghours {
+        user_id user_id
+        daynumber daynumber
+        opening_time opening_time
+        closing_time closing_time
+    }
+    Days {
+        daynumber daynumber
+        name name
+    }
+```
 ### Table Definitions & Relations:
 - `Role`: Defines systemic access permissions (`Admin`, `Worker`, `Guest`).
 - `User`: Securely stores account details including cryptographically protected `passwd_hash` and `passwd_salt`.
